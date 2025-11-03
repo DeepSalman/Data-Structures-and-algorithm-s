@@ -67,6 +67,66 @@ A particular way of organizing data in a computer so that it can be used effecti
 
 ---
 
-### ✅ Goal
-Build a strong foundation in data organization, algorithm design, and time complexity analysis before moving to **DSA-2**.
+# 📗 DSA 2 – Core Topics
+
+## 🧱 Advanced Data Structures
+- **Trees**
+  - Binary Tree → Creation, Traversal (Inorder, Preorder, Postorder)  
+  - Binary Search Tree (BST) → Insertion, Deletion, Searching  
+  - Applications of BST  
+  - Height, Depth, Leaf Nodes  
+
+- **Heaps**
+  - Min Heap & Max Heap  
+  - Heap Operations → Insert, Delete  
+  - Heap Sort  
+  - Priority Queue using Heap  
+
+- **Hashing**
+  - Hash Tables & Hash Functions  
+  - Collision Handling → Chaining, Open Addressing  
+  - Applications → Counting, Searching, Maps  
+
+- **Graphs**
+  - Representation → Adjacency List / Matrix  
+  - Traversals → BFS, DFS  
+  - Connected Components  
+  - Directed vs Undirected, Weighted vs Unweighted  
+  - Shortest Path → Dijkstra, Bellman-Ford (Intro)  
+  - Minimum Spanning Tree → Prim’s, Kruskal’s  
+
+- **Advanced Linked Lists**
+  - Skip Lists, Circular & Doubly Linked Variants  
+  - Applications → LRU Cache, Polynomial Addition  
+
+---
+
+## ⚙️ Algorithmic Techniques
+- **Divide and Conquer**
+  - Merge Sort, Quick Sort, Binary Search (Revisited)  
+
+- **Greedy Algorithms**
+  - Activity Selection  
+  - Huffman Coding  
+  - Fractional Knapsack  
+
+- **Dynamic Programming (Intro)**
+  - Fibonacci (DP Approach)  
+  - 0/1 Knapsack (Intro)  
+  - Longest Common Subsequence (LCS)  
+  - Matrix Chain Multiplication  
+
+- **Backtracking (Intro)**
+  - N-Queens Problem  
+  - Subset Sum  
+  - Permutations Generation  
+
+---
+
+## 📈 Complexity & Analysis
+- Advanced Time Complexity → Recursion Tree, Master Theorem (Intro)  
+- Space Optimization in Algorithms  
+
+
+
 
