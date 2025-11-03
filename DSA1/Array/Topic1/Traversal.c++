@@ -7,7 +7,8 @@ int main(){
 
     cout <<"Array Elements: ";
     for(int i=0;i<n;i++){
-        cout<<arr[i]<<"";
+        cout<<arr[i]<<" ";
     }
 
 }
+///By Traversal it means printing the array
